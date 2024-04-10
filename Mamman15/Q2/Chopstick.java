@@ -1,6 +1,5 @@
 /**
  * Student Name: Ilay Zvi
- *  ID: 324125657
  *  Date: 5/2/2023
  *  Class Name: ChopStick
  */
