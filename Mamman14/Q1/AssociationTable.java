@@ -1,6 +1,5 @@
 /**
  * Student Name: Ilay Zvi
- *  ID: 324125657
  *  Date: 18/1/2023
  *  Class Name: AssociationTable.java
  */
