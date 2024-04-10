@@ -51,6 +51,8 @@ public class PhoneBookController {
         //tie column to table key and value
         nameColumn.setCellValueFactory(data -> new SimpleStringProperty(data.getValue().getKey()));
         phoneColumn.setCellValueFactory(data -> new SimpleStringProperty(data.getValue().getValue()));
+        nameColumn.setText("Name");
+        phoneColumn.setText("Phone Number");
     }
 
     /**
