@@ -1,6 +1,5 @@
 /**
  * Student Name: Ilay Zvi
- *  ID: 324125657
  *  Date: 9/1/2023
  *  Class Name: MultipleChoiceController
  */
