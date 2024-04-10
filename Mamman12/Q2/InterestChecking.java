@@ -1,7 +1,6 @@
 /**
  * Student Name: Ilay Zvi
  *  ID: 324125657
- *  Date: 12/12/2023
  *  Class Name: InterestChecking
  */
 public class InterestChecking extends NoServiceChargeChecking{
